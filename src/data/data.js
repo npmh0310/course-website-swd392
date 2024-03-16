@@ -222,3 +222,31 @@ export const footer = {
         ]
     }
 };
+
+export const dataCourse = {
+    course:
+        [
+            {
+                id: 1,
+                name: 'Fullstack Course',
+                description: 'A Full Path for Developers who wants to be Fullstack',
+                category: 'Technology',
+                image: <HtmlImg />,
+                isConfirmed: false,
+                isFree: false,
+                price: 1800000,
+                videos: ['Introduction to Fullstack', 'Building Frontend with React', 'Backend with Node.js'],
+            },
+            {
+                id: 1,
+                name: 'Fullstack Course',
+                description: 'A Full Path for Developers who wants to be Fullstack',
+                category: 'Technology',
+                image: <HtmlImg />,
+                isConfirmed: false,
+                isFree: false,
+                price: 1800000,
+                videos: ['Introduction to Fullstack', 'Building Frontend with React', 'Backend with Node.js'],
+            }
+        ]
+}
