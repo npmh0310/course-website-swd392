@@ -1,5 +1,6 @@
 import React from "react";
 import { dataCourse } from '../../src/data/dataCourse';
+import { dataCourse } from './../data/data';
 import { Link } from "react-router-dom";
 
 function PathPage() {
