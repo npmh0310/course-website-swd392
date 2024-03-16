@@ -252,8 +252,6 @@ export const dataCourse = {
         ]
 }
 
-
-
 export const menuUserItems = [
     { text: 'Profile', link: '#' },
     { text: 'Write Blog', link: '#' },
@@ -261,4 +259,4 @@ export const menuUserItems = [
     { text: 'Saved Blogs', link: '#' },
     { text: 'Log Out', link: '#' }
   ];
-  
+   
